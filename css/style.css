@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/montserrat-regular.eot');
+    src: url('../fonts/montserrat-regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/montserrat-regular.woff2') format('woff2'),
+         url('../fonts/montserrat-regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/montserrat-medium.eot');
+    src: url('../fonts/montserrat-medium.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/montserrat-medium.woff2') format('woff2'),
+         url('../fonts/montserrat-medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url('playfairdisplaysc-regular.eot');
+    src: url('playfairdisplaysc-regular.eot?#iefix') format('embedded-opentype'),
+         url('playfairdisplaysc-regular.woff2') format('woff2'),
+         url('playfairdisplaysc-regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url('playfairdisplaysc-bold.eot');
+    src: url('playfairdisplaysc-bold.eot?#iefix') format('embedded-opentype'),
+         url('playfairdisplaysc-bold.woff2') format('woff2'),
+         url('playfairdisplaysc-bold.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
